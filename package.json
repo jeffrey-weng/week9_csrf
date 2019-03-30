@@ -1,0 +1,13 @@
+{
+  "name": "csrf-example",
+  "version": "1.0.0",
+  "description": "csrf example",
+  "main": "server.js",
+  "author": "Medhir Bhargava",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.67.0"
+  }
+}
